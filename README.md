@@ -13,7 +13,7 @@ app's own features above the keys.
 
 ## Install
 
-In Xcode: **File → Add Package Dependencies…** → `https://github.com/keycapkit/keycapkit-ios`.
+In Xcode: **File → Add Package Dependencies…** → `https://github.com/MudasirHussain72/keycapkit-ios`.
 Add **KeycapKit to both your app target and your keyboard extension target** (the app
 embeds the framework; the extension loads it from there).
 
