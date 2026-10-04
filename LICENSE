@@ -1,0 +1,32 @@
+KeycapKit End User License Agreement
+
+Copyright (c) 2026 KeycapKit. All rights reserved.
+
+1. Grant. Subject to payment of the applicable fee, KeycapKit grants you a
+   non-exclusive, non-transferable license to link the KeycapKit binary framework
+   ("the SDK") into the iOS applications identified by the bundle IDs in your
+   license key, and to distribute those applications to end users.
+
+2. Evaluation. You may use the SDK without a license key in the iOS Simulator and in
+   development-signed builds, for evaluation only. Distribution of an application
+   containing the SDK (App Store, TestFlight, ad hoc, enterprise) requires a valid
+   license key for that application.
+
+3. Restrictions. You may not (a) decompile, disassemble, reverse engineer or attempt
+   to derive the source code, layouts, measurements or algorithms of the SDK, except
+   as applicable law expressly permits despite this restriction; (b) redistribute
+   the SDK on its own or as part of another SDK, framework or library; (c) remove,
+   circumvent or tamper with the license checks; (d) share, publish or resell
+   license keys.
+
+4. Term. Licenses run for the period paid for. Applications shipped during that
+   period keep working for 30 days after it ends; renew to keep shipping updates.
+
+5. Ownership. The SDK is licensed, not sold. KeycapKit retains all rights not
+   expressly granted.
+
+6. No warranty. The SDK is provided "as is", without warranty of any kind. In no
+   event shall KeycapKit be liable for any damages arising from its use, beyond the
+   fees you paid in the twelve months before the claim.
+
+7. Termination. Breach of these terms ends the license immediately.
