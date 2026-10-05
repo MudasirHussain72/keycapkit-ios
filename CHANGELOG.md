@@ -1,5 +1,14 @@
 # Changelog
 
+## 1.1.0
+
+- Panels: `config.panel { context in … }` shows your own view in place of the keys
+  (`context.showPanel()`, `context.showLetters()`), at the height you set with
+  `context.panelHeight`.
+- Your own text fields: `context.beginEditing($text, capitalized:onReturn:)` points the
+  keys at a binding; `context.keyRows` draws them inside your panel.
+- `context.screenHeight`, `context.keyRowsHeight`; `KeycapController.setInterfaceLanguage(_:)`.
+
 ## 1.0.0
 
 - First release: Apple-matched key geometry and touch areas for iOS 26 on 390–440pt
