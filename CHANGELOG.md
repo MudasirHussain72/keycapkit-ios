@@ -1,5 +1,13 @@
 # Changelog
 
+## 1.2.0
+
+- iPad: Apple's iPad keyboard on every iPad, matched keycap for keycap in portrait and
+  landscape — iPad mini, iPad, iPad Air and Pro 11", and the 13" iPads' five-row
+  keyboard (ISO form with an L-shaped return in ISO regions). Grey second characters
+  typed by swiping down, hide-keyboard key, no tap preview bubble. The floating keyboard
+  keeps the iPhone layout. Nothing to configure; include iPad in your targets.
+
 ## 1.1.0
 
 - Panels: `config.panel { context in … }` shows your own view in place of the keys
