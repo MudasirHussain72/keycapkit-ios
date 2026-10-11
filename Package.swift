@@ -11,8 +11,8 @@ let package = Package(
         // Compiled, closed-source binary. Use requires a license: https://keycapkit.com/pricing
         .binaryTarget(
             name: "KeycapKit",
-            url: "https://github.com/MudasirHussain72/keycapkit-ios/releases/download/1.2.0/KeycapKit.xcframework.zip",
-            checksum: "f4f9d8e55574d0beb4cc6ada8216442775a2978d6f430e80235c27679b807830"
+            url: "https://github.com/MudasirHussain72/keycapkit-ios/releases/download/1.3.0/KeycapKit.xcframework.zip",
+            checksum: "ed80ff56160c8758df9f7d4348d2bb3ec25df2be7d9e44cd7d673ee2f297d10c"
         ),
     ]
 )

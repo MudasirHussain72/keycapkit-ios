@@ -1,5 +1,14 @@
 # Changelog
 
+## 1.3.0
+
+- iPad: every language now gets Apple's own iPad keyboard for that language — its keys,
+  grey second characters and row layout — on iPad mini, iPad/Air/Pro 11" and the 13"
+  iPads (ISO and ANSI forms), measured against Apple's in all 22 layouts.
+- iPad emoji panel matching Apple's: larger grid, category bar along the bottom with
+  ABC, search, delete and hide-keyboard keys.
+- Turkish dotted and dotless I keep their case correctly.
+
 ## 1.2.0
 
 - iPad: Apple's iPad keyboard on every iPad, matched keycap for keycap in portrait and
