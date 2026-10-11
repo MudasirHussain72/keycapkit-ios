@@ -1,5 +1,13 @@
 # Changelog
 
+## 1.3.1
+
+- iPad: the German keyboards on 11" iPads (Germany, Austria, Switzerland) show their
+  real number and symbol layers and Apple's grey characters — they showed letters.
+- iPad: every key now carries Apple's grey second character, including the few that
+  were missing (Polish and Swiss German A, Korean ㅁ, German ß and the French apostrophe
+  key on iPad mini) and the number keys' on iPad mini.
+
 ## 1.3.0
 
 - iPad: every language now gets Apple's own iPad keyboard for that language — its keys,
