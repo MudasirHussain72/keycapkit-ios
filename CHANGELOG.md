@@ -1,5 +1,14 @@
 # Changelog
 
+## 1.3.2
+
+- Keys follow light and dark mode while the keyboard is on screen. Switching the
+  phone from dark to light with the keyboard up left dark keys on a light keyboard
+  until it was shown again, and keyboards embedding `KeycapController` kept light
+  keys after a switch to dark.
+- The keyboard's appearance comes from its trait collection, which iOS keeps current,
+  including for fields that ask for a dark keyboard.
+
 ## 1.3.1
 
 - iPad: the German keyboards on 11" iPads (Germany, Austria, Switzerland) show their
